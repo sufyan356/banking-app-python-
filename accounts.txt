@@ -1,0 +1,3 @@
+sufyan,0.0
+riyan,1010.0
+kamran,100.0

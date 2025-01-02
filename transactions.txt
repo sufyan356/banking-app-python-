@@ -1,0 +1,7 @@
+sufyan,Deposit: $50.00, New Balance: $150.00
+sufyan,Withdrawal: $50.00, New Balance: $100.00
+sufyan,Withdrawal: $60.00, New Balance: $40.00
+sufyan,Deposit: $200.00, New Balance: $240.00
+riyan,Deposit: $1000.00, New Balance: $1010.00
+sufyan,Deposit: $60.00, New Balance: $300.00
+sufyan,Withdrawal: $300.00, New Balance: $0.00
